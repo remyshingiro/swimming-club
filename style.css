@@ -74,7 +74,10 @@ nav ul li a:hover {
 }
 
 .video-section {
-  margin-bottom: 30px;
+  margin-bottom: 300px;
+  width: 200px;
+  height: 100px;
+  
 }
 
 .photo-section {
